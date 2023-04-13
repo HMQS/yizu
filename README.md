@@ -1,9 +1,6 @@
 # yizu
 一组的仓库 
-
-fxy  
-
-游戏小菜鸡，又菜又爱玩  
+fxy 
 
 #include<iostream>
 #define endl '\n'
