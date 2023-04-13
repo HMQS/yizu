@@ -1,5 +1,3 @@
-# yizu
-一组的仓库
 package top.ludonghuang.controller;
 
 import com.github.pagehelper.PageInfo;
