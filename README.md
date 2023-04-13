@@ -1,5 +1,4 @@
 # yizu
-一组的仓库 
 fxy 
 
 #include<iostream>
